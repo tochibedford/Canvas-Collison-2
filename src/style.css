@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+canvas{
+  border: 1px solid black;
+  cursor: none;
+/*   filter: blur(4px); */
+}
